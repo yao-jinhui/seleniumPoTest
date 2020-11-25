@@ -69,5 +69,10 @@
             <artifactId>ebtce-service-open-common</artifactId>
             <version>1.1</version>
         </dependency>
+        <dependency>
+            <groupId>io.appium</groupId>
+            <artifactId>java-client</artifactId>
+            <version>7.4.0</version>
+        </dependency>
     </dependencies>
 </project>
